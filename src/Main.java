@@ -20,7 +20,7 @@ public class Main {
         course1.setName("2 Bach");
 
         System.out.println(course1.getName());
-        System.out.println(course1.getCode())
+        System.out.println(course1.getCode());
 
         //Asignatura
         Subjects subjects1 = new Subjects();
